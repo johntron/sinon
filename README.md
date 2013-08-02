@@ -20,6 +20,10 @@ Don't forget to include the parts of Sinon.JS that you want to use as well
 
 See the [sinon project homepage](http://sinonjs.org/)
 
+```JavaScript
+sinon = require('sinon');
+```
+
 ## Goals
 
 * No global pollution
